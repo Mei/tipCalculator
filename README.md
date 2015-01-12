@@ -8,4 +8,4 @@ Required: User can bill amount and select a tip percentage to get the total amou
 Required: User can set the default tip percentage in the settings page
 Optional: User can set a light/dark color theme in the settings view. 
 
-/Users/mei.wei/Desktop/TipCalculator/TipCalculatorDemo.gif
+![alt tag] https://github.com/Mei/tipCalculator/blob/master/TipCalculatorDemo.gif
